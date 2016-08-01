@@ -1,0 +1,35 @@
+name: Roughlove
+version: 0.0.1
+description: "Custom theme for Roughlove.com"
+icon: empire
+author:
+  name: Brendan Norris
+  email: hello@brendannorris.me
+  url: http://brendannorris.me
+homepage: https://roughlove.com
+demo: http://roughlove.com
+keywords: antimatter, theme, core, modern, fast, responsive, html5, css3
+bugs: hello@brendannorris.me
+license: MIT
+
+form:
+  validation: loose
+  fields:
+    default_lang:
+      type: text
+      size: x-small
+      label: Default lang
+      default: 'en'
+      validate:
+        type: text
+
+    dropdown.enabled:
+        type: toggle
+        label: Dropdown in navbar
+        highlight: 1
+        default: 1
+        options:
+          1: Enabled
+          0: Disabled
+        validate:
+          type: bool
