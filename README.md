@@ -2,7 +2,8 @@
 
 ## Installation
   - `git clone` repo into `themes` directory in your grav Installation
-  - `cd` into `themes/grav-theme-baseplate`
+  - `cd` into `themes/grav-theme-baseplate` in your command-line
+  - run `bower install && npm install`
 
 ## v 1.0.0
   - Cleaned base twig file
