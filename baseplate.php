@@ -3,7 +3,7 @@ namespace Grav\Theme;
 
 use Grav\Common\Theme;
 
-class Roughlove extends Theme
+class Baseplate extends Theme
 {
 
 }

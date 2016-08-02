@@ -1,15 +1,15 @@
-name: Roughlove
-version: 0.0.1
-description: "Custom theme for Roughlove.com"
+name: Baseplate
+version: 1.0.0
+description: "Custom theme baseplate"
 icon: empire
 author:
   name: Brendan Norris
   email: hello@brendannorris.me
   url: http://brendannorris.me
-homepage: https://roughlove.com
-demo: http://roughlove.com
-keywords: antimatter, theme, core, modern, fast, responsive, html5, css3
-bugs: hello@brendannorris.me
+homepage: https://github.com/btn0s/grav-theme-baseplate
+demo: https://github.com/btn0s/grav-theme-baseplate
+keywords: baseplate, theme, core, modern, fast, responsive, html5, css3
+bugs: https://github.com/btn0s/grav-theme-baseplate/issues
 license: MIT
 
 form:
